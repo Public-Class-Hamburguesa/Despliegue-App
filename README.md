@@ -42,7 +42,7 @@ Para ello, abriremos el archivo "tomcat-users.xml" y crearemos nuestro usuario c
 
 ```$ sudo nano /etc/tomcat9/tomcat-users.xml```
 
-<img src="https://linuxhint.com/wp-content/uploads/2020/06/word-image-30.png">
+<img src="https://cdn.discordapp.com/attachments/897890284074041354/983067659870543882/unknown.png">
 
 ### 10. Reiniciamos Tomcat Server
 
