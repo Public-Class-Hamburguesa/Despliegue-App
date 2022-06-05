@@ -1,6 +1,6 @@
 # Despliegue de aplicación
 
-En este documento plasmaremos como hemos desplegado nuestra aplicación mediante el uso de Apache Tomcat en un sistema operativo Ubunto 22.04
+En este documento plasmaremos como hemos desplegado nuestra aplicación mediante el uso de Apache Tomcat en un sistema operativo Ubuntu 22.04
 
 ### 1. Nos aseguramos de tener todos los repositorios del sistema actualizados
 
@@ -18,7 +18,7 @@ En este documento plasmaremos como hemos desplegado nuestra aplicación mediante
 
 ```$ sudo apt-cache search tomcat```
 
-### 5. Instalamos Apache Tomcat Server en nuetru Ubunto 22.04
+### 5. Instalamos Apache Tomcat Server en nuestro Ubuntu 22.04
 
 ```$ sudo apt install tomcat9 tomcat9-admin```
 
